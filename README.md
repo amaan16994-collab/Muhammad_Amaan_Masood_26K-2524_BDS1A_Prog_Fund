@@ -1,1 +1,3 @@
-# 26K-2524_BDS1A_Prog_Fund
+Name: Muhammad Amaan Masood
+Class: BDS-1A
+Roll number: 26K-2524
